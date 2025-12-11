@@ -24,6 +24,3 @@ An interactive and responsive Weather Dashboard built using JavaScript (ES6+), F
 - **Weather API:** OpenWeatherMap (or whichever API you integrated)
 
 ---
-
-## 📂 Project Structure
-
